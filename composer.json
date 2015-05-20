@@ -1,0 +1,20 @@
+{
+    "name": "flashmessage",
+    "type": "library",
+    "description": "Various base classes for comments management",
+    "keywords": ["comments", "education"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Per Lennartsson",
+            "email": "perlennartsson@outlook.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Phpmvc\\": "src/" }
+    }
+}
