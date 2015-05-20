@@ -1,5 +1,5 @@
 {
-    "name": "flashmessage",
+    "name": "pele/flashmessage",
     "type": "library",
     "description": "PHP classes for Flash Message handling",
     "keywords": ["module"],
