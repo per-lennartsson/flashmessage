@@ -1,13 +1,15 @@
 {
     "name": "flashmessage",
     "type": "library",
-    "description": "Various base classes for comments management",
-    "keywords": ["comments", "education"],
+    "description": "PHP classes for Flash Message handling",
+    "keywords": ["module"],
+    "homepage": "http://per-lennartsson.se",
     "license": "MIT",
     "authors": [
         {
             "name": "Per Lennartsson",
-            "email": "perlennartsson@outlook.com",
+            "email": "perlnnartsson@outlook.com",
+            "homepage": "http://per-lennartsson.se",
             "role": "Developer"
         }
     ],
