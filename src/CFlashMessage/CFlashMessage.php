@@ -12,11 +12,6 @@ class CFlashMessage
         }
     }
 
-    public function clear()
-    {
-        $_SESSION['flash'] = null;
-    }
-
     public function message($type , $message)
     {
 
