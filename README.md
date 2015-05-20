@@ -15,4 +15,4 @@ Install with composer and packagist: "pele/flashmessage": "dev-master"
 
 Usage
 -----------------------
-See test.php for example code. 
+See test.php under webroot for example code. 
