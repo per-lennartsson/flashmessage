@@ -3,7 +3,7 @@
 require __DIR__.'/config_with_app.php';
 
 $di->setShared('flash', function() {
-    $flash = new \CFlashMessage\CFlashMessage();
+    $flash = new \Anax\CFlashMessage\CFlashMessage();
     return $flash;
 });
 
@@ -24,7 +24,7 @@ $app->router->add('', function() use ($app) {
 
 
     $app->theme->setVariable('title', "Flash test")
-           ->setVariable('main', $app->flash->get());
+           ->setVariable('main', $app->flash->getMessages());
 
 });
 

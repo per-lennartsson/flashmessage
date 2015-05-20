@@ -1,6 +1,6 @@
 <?php
 
-namespace flashmessage\CFlashMessage;
+namespace Anax\CFlashMessage;
 
 class CFlashMessage
 {
