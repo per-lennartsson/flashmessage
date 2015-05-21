@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/perlennartsson95/flashmessage.svg?branch=master)](https://travis-ci.org/perlennartsson95/flashmessage)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/perlennartsson95/flashmessage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/perlennartsson95/flashmessage/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/perlennartsson95/flashmessage/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/perlennartsson95/flashmessage/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/perlennartsson95/flashmessage/badges/build.png?b=master)](https://scrutinizer-ci.com/g/perlennartsson95/flashmessage/build-status/master)
 
 License
 -----------------------
