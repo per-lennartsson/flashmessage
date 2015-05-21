@@ -30,7 +30,7 @@ class CFlashMessageTest extends \PHPUnit_Framework_TestCase
     {
         $this->flash->message('info', 'Info example message');
         $expectedResult = "<div class='flash_info'>\n";
-        $expectedResult .= "\t" . "Info example message" . "\n</div>\n";
+        $expectedResult .= "  " . 'Info example message' . "\n</div>\n";
         $this->assertEquals($expectedResult, $this->flash->getMessages());
     }
 
