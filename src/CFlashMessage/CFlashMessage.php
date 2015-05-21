@@ -7,12 +7,12 @@ class CFlashMessage
 
     function __construct()
     {
-        if(!isset($_SESSION['flash'])) {
+        if (!isset($_SESSION['flash'])) {
         $_SESSION['flash'] = array();
         }
     }
 
-    public function message($type , $message)
+    public function message($type, $message)
     {
 
         $_SESSION['flash'][] = [
@@ -24,8 +24,8 @@ class CFlashMessage
     public function getMessages()
     {
         $messages = null;
-        if(isset($_SESSION['flash'])) {
-            foreach($_SESSION['flash'] as $flashes => $flash) {
+        if (isset($_SESSION['flash'])) {
+            foreach ($_SESSION['flash'] as $flashes => $flash) {
             $type = $flash['type'];
             $message = $flash['message'];
             $messages .= "<div class='flash_{$type}'>\n";
