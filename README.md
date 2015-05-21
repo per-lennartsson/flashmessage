@@ -11,8 +11,8 @@ Installation
 -----------------------
 Install Anax-MVC with git clone https://github.com/mosbth/Anax-MVC.git before you install flashmessage.
 
-Install with composer and packagist: "pele/flashmessage": "dev-master"
+Install with composer and packagist: "pele/flashmessage": "dev-master".
 
 Usage
 -----------------------
-See test.php under webroot for example code. 
+See test.php under webroot for example code.
