@@ -1,3 +1,5 @@
+[![Build Status](https://scrutinizer-ci.com/g/marcus-w/CFlashMessage/badges/build.png?b=master)
+
 License
 -----------------------
 This software is free software and carries a MIT license.
