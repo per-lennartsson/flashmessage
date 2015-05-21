@@ -7,7 +7,7 @@ class CFlashMessageTest extends \PHPUnit_Framework_TestCase
 
     public function setup()
     {
-        $this->flash = new CFlashMessage();
+        $this->flash = new Anax\CFlashMessage\CFlashMessage();
     }
 
     public function testMessage()
