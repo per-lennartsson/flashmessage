@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__.'/config_with_app.php';
+require __DIR__ . '/config_with_app.php';
 
 $di->setShared('flash', function() {
     $flash = new \Anax\CFlashMessage\CFlashMessage();
@@ -24,7 +24,7 @@ $app->router->add('', function() use ($app) {
 
 
     $app->theme->setVariable('title', "Flash test")
-           ->setVariable('main', $app->flash->getMessages());
+        ->setVariable('main', $app->flash->getMessages());
 
 });
 
