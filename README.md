@@ -1,4 +1,4 @@
-![Build Status](https://scrutinizer-ci.com/g/marcus-w/CFlashMessage/badges/build.png?b=master)
+[![Build Status](https://travis-ci.org/perlennartsson95/flashmessage.svg?branch=master)](https://travis-ci.org/perlennartsson95/flashmessage)
 
 License
 -----------------------
