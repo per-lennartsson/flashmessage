@@ -1,4 +1,4 @@
-[![Build Status](https://scrutinizer-ci.com/g/marcus-w/CFlashMessage/badges/build.png?b=master)
+[![Build Status](https://scrutinizer-ci.com/g/marcus-w/CFlashMessage/badges/build.png?b=master)]
 
 License
 -----------------------
